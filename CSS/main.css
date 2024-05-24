@@ -1,0 +1,21 @@
+h1{
+    font-weight: 900;
+}
+
+.btn{
+    background-color: blue;
+    color: white;
+    padding-block: 30px;
+    padding-inline: 70px;
+
+}
+
+.btn:hover{
+    background-color: #008000;
+    color: white;
+}
+
+.btn:focus{
+    border-color:#000 ;
+    background-color: #008000;
+}
